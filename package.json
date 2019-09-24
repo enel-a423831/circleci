@@ -1,0 +1,28 @@
+{
+  "name": "mywssocks",
+  "version": "0.0.1",
+  "description": "...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "timezone": "~0.0.41",
+    "ws": "~0.6.5",
+    "socksv5": "~0.0.6"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enel-a423831/mywssocks4circleci.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
